@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70943238298",
+    "project_id": "motorsport-calendar-e6e3d",
+    "storage_bucket": "motorsport-calendar-e6e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70943238298:android:206d83aa2f7106eaf95723",
+        "android_client_info": {
+          "package_name": "com.example.motorsportcalendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0tUmKb-HUOsvq8pf7wJvO9X9u7nicKPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
